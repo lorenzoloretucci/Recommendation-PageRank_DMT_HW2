@@ -1,0 +1,17 @@
+Book	Character	Dumping_Factor	Exponent	Conductance	Baratheon_Family	Lannister_Family	Stark_Family	Targaryen_Family	Number_Characters_In_Comunity
+book_1	Daenerys-Targaryen	0.95	1.0	0.078	0	0	0	3	22
+book_1	Jon-Snow	0.95	1.0	0.079	6	6	11	5	166
+book_1	Samwell-Tarly	0.95	1.0	0.079	6	6	11	5	166
+book_1	Tyrion-Lannister	0.95	1.0	0.079	6	6	11	5	166
+book_2	Daenerys-Targaryen	0.95	0.8	0.099	0	0	0	3	18
+book_2	Jon-Snow	0.95	0.8	0.085	0	0	1	4	28
+book_2	Samwell-Tarly	0.95	0.6	0.085	0	0	1	4	28
+book_2	Tyrion-Lannister	0.95	1.0	0.099	8	6	5	6	160
+book_3	Daenerys-Targaryen	0.95	0.8	0.071	0	0	0	2	25
+book_3	Jon-Snow	0.95	1.0	0.062	0	0	1	1	74
+book_3	Samwell-Tarly	0.95	1.0	0.061	0	0	1	1	71
+book_3	Tyrion-Lannister	0.95	1.0	0.079	7	9	10	10	204
+book_4	Daenerys-Targaryen	0.95	1.0	0.072	5	8	4	11	298
+book_4	Jon-Snow	0.95	1.0	0.061	2	0	6	2	181
+book_4	Samwell-Tarly	0.95	1.0	0.086	2	0	6	2	177
+book_4	Tyrion-Lannister	0.95	1.0	0.044	5	8	4	11	286
